@@ -244,6 +244,9 @@ nav .menu-item:not(:last-child) {
   margin-right: 0;
 }
 
+.list-item img{
+  display: block;
+}
 .team-div{
   padding: 32px 0;
 }
